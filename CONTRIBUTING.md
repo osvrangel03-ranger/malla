@@ -1,4 +1,4 @@
-# Cómo contribuir a Colonia
+# Cómo contribuir a Malla
 
 ¡Gracias por querer ayudar! Este proyecto está en **Fase 0** (diseño), así que todavía no
 hay código de la aplicación. Aun así, hay mucho por hacer.

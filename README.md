@@ -1,9 +1,9 @@
-# Colonia
+# Malla
 
 > La red social de tu ciudad. Local, con identidad real y sin algoritmo.
 
-**Colonia** (nombre provisional) es una red social pensada como **herramienta, no como
-escaparate**. La ciudad es la unidad. No hay publicidad, no hay algoritmo que decida qué
+**Malla** —una red donde cada persona sostiene a las demás— es una red social pensada como
+**herramienta, no como escaparate**. La ciudad es la unidad. No hay publicidad, no hay algoritmo que decida qué
 importa, y no hay fantasmas: tu perfil dice de dónde eres.
 
 El objetivo es recuperar el sentido original de estas plataformas: **conocer gente y
